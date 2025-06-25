@@ -12,8 +12,7 @@ This plugin provides an easy way to manage and control 2D character weapons in G
 
 ## Installation
 
-1. Copy the `weapons-controller` folder into your Godot project's `addons` directory.
-2. Enable the plugin in your project settings under `Project > Project Settings > Plugins`.
+Copy the `weapons-controller` folder into your Godot project's `addons` directory.
 
 ## Usage
 
