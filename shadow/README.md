@@ -2,6 +2,8 @@
 
 Easily add and customize 2D character shadows in your Godot projects using this plugin. It provides a script and a shader for visually appealing, dynamic shadows that follow your characters and update with their animations.
 
+**Special thanks to [deakcor shader](https://godotshaders.com/shader/shadow-2d/)**
+
 ## Features
 
 - Simple integration for 2D character shadows
